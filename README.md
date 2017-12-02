@@ -1,4 +1,4 @@
-# IP_Upper-desktop v0.0.4 Beta
+# IP_Upper-desktop v0.0.5 Beta
 
 Приложение написано с использованием Electron, это означает что будет одинаково работать на Windows, MacOS и Linux.
 
